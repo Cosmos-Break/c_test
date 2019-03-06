@@ -1,0 +1,7 @@
+the, 19
+a, 12
+of, 11
+and, 9
+in, 7
+city, 5
+Lock, 5
